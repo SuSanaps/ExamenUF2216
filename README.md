@@ -1,2 +1,2 @@
 # ExamenUF2216
-Repositorio para el examen de abril
+Este comentario se corresponde con la pregunta 3
